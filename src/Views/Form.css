@@ -1,0 +1,17 @@
+
+
+.form{
+    text-align: left;
+    margin: 25px;
+}
+
+.label{
+    margin-right: 15px;
+    font-weight: bold;
+}
+
+.btn{
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 3px;
+}
